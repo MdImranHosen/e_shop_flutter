@@ -7,13 +7,13 @@ A E - Commerce Shop Flutter application.
 
 <br>
 
-<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/1.png" width="100%" />
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/1.png" width="60%" />
 <br>
-<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/2.png" width="100%" />
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/2.png" width="60%" />
 <br>
-<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/3.png" width="100%" />
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/3.png" width="60%" />
 <br>
-<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/4.png" width="100%" />
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/4.png" width="60%" />
 
 
 
