@@ -4,6 +4,19 @@ A E - Commerce Shop Flutter application.
 
 ## Getting Started
 
+
+<br>
+
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/1.png" width="100%" />
+<br>
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/2.png" width="100%" />
+<br>
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/3.png" width="100%" />
+<br>
+<img src="https://github.com/MdImranHosen/e_shop_flutter/blob/main/scr/4.png" width="100%" />
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
